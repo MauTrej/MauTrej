@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# ¡Hola! Soy Mauricio Martínez Trejo 👋
+# ¡Hola! Soy Mauricio Martínez Trejo 
 
-### 💻 Desarrollador Full Stack | Enfoque en Back-End
+###  Desarrollador Full Stack | Enfoque en Back-End
 
 Estudiante de Ingeniería en Desarrollo y Gestión de Software  
 Universidad Tecnológica del Valle del Mezquital (UTVM)
@@ -20,7 +20,7 @@ Universidad Tecnológica del Valle del Mezquital (UTVM)
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy desarrollador Full Stack con experiencia en proyectos académicos y prácticas profesionales. Mi principal área de interés es el **desarrollo Back-End**, aunque también disfruto construir interfaces web funcionales e intuitivas.
 
@@ -33,7 +33,7 @@ Soy desarrollador Full Stack con experiencia en proyectos académicos y práctic
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 ### Lenguajes de programación
 
@@ -74,65 +74,7 @@ Soy desarrollador Full Stack con experiencia en proyectos académicos y práctic
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 🎓 Plataforma Web del Congreso UTVM
-**Desarrollador Full Stack | Proyecto universitario**
-
-Plataforma web para la organización y difusión del Congreso UTVM, con funcionalidades para administrar participantes, ponentes, talleres, conferencias y eventos académicos.
-
-**Tecnologías:** Vue, Quasar, NestJS y TypeScript.
-
-**Participación:** Desarrollo de funcionalidades Front-End y Back-End.
-
-### 🏥 Salud Preventiva
-
-Interfaz web desarrollada con Vue 3 y Vite que incluye un formulario de salud preventiva y la interfaz de un chatbot para recomendaciones.
-
-**Tecnologías:** Vue 3, JavaScript y Vite.
-
-🔗 [Ver repositorio](https://github.com/MauTrej/Salud_Preventiva)
-
-### ⚙️ CRUD REST API
-
-Proyecto de desarrollo de una aplicación con C# y ASP.NET Core para practicar la construcción de aplicaciones y servicios web.
-
-**Tecnologías:** C# y ASP.NET Core.
-
-🔗 [Ver repositorio](https://github.com/MauTrej/CRUD-REST-API)
-
-### 🛒 E-commerce Front-End
-
-Proyecto de desarrollo de una interfaz web para comercio electrónico.
-
-**Tecnologías:** Vue.js y JavaScript.
-
-🔗 [Ver repositorio](https://github.com/MauTrej/e-comerce-Front)
-
----
-
-## 💼 Experiencia profesional
-
-### C&A Systems | Estadía profesional
-**Desarrollador Full Stack**  
-Mayo – Septiembre 2025
-
-- Participé en la migración de un arquetipo empresarial desarrollado en Java hacia C#, ASP.NET Core y Razor.
-- Implementé autenticación JWT y cifrado de contraseñas.
-- Desarrollé interfaces CRUD para la administración de usuarios.
-- Trabajé con PostgreSQL, Scrum, Docker y Azure DevOps.
-
----
-
-## 🎯 Objetivo profesional
-
-Busco una oportunidad de **estadía profesional** donde pueda aplicar mis conocimientos de desarrollo de software, fortalecer mis habilidades técnicas y contribuir a proyectos reales.
-
-Tengo disponibilidad para trabajar en modalidad **presencial o remota**.
-
----
-
-## 📫 Contacto
+##  Contacto
 
 - **Correo:** [martineztr3jmauricio@gmail.com](mailto:martineztr3jmauricio@gmail.com)
 - **GitHub:** [github.com/MauTrej](https://github.com/MauTrej)
