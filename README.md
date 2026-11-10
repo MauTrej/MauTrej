@@ -8,9 +8,6 @@
 Estudiante de Ingeniería en Desarrollo y Gestión de Software  
 Universidad Tecnológica del Valle del Mezquital (UTVM)
 
-![Disponibilidad](https://img.shields.io/badge/Disponible_para_Estadía_Profesional-2563EB?style=for-the-badge)
-![Modalidad](https://img.shields.io/badge/Presencial_o_Remoto-16A34A?style=for-the-badge)
-
 **Me apasiona desarrollar soluciones tecnológicas, aprender nuevas herramientas y enfrentar retos de programación.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MauTrej)
